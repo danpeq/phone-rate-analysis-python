@@ -1,2 +1,2 @@
 # phone-rate-analysis-python
-Analyst project for the telecommunications operator. The commercial department wants to know which of the plans generates the most income in order to adjust the advertising budget.
+A telecommunications operator offers two prepaid plans. I conducted a tariff analysis based on customer data to determine which plan generates more revenue by performing a hypothesis test, in order to adjust the advertising budget.
